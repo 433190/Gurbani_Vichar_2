@@ -68,6 +68,13 @@
   </style>
 </head>
 <body>
+
+   <!-- Header Section -->
+  <div id="header">
+    <h1>ੴ</h1>
+    <p>Dhan Guru Granth Sahib Ji</p>
+  </div>
+  
   <div id="quiz-container">
     <div id="left-panel">
       <h2 id="question">Question text</h2>
