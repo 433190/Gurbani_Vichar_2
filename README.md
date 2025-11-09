@@ -90,11 +90,11 @@
   <script>
     const quiz = [
       {
-        question: "Who was the founder of Sikhism?",
-        options: ["Guru Nanak Dev Ji", "Guru Gobind Singh Ji", "Guru Arjan Dev Ji", "Guru Tegh Bahadur Ji"],
-        answer: "Guru Nanak Dev Ji",
+        question: "What is Hukam as per Guru Granth Sahib?",
+        options: ["To be in connection with Anhad Naad", "What is going on just move on", "Be Positive ", "Be Negative"],
+        answer: "To be in connection with Anhad Naad",
         marks: 1,
-        explanation: "Guru Nanak Dev Ji, born in 1469, was the first Sikh Guru and the founder of Sikhism. His teachings focused on equality, truth, and devotion to one God. He spread the message of peace and unity among all religions."
+        explanation: "When we start reading Gurbani we read most of the Hukam in Gurbani that clicks that what do you mean by Hukam, so Hukam is Naam - Gurbani   says Eko Naam hukam ha Nanak Satgur Diya Bujaye jiyo ."
       },
       {
         question: "In which year was Guru Nanak Dev Ji born?",
