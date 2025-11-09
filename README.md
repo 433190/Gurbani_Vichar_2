@@ -91,7 +91,7 @@
     const quiz = [
       {
         question: "What is Hukam as per Guru Granth Sahib?",
-        options: ["To be in connection with Anhad Naad", "What is going on just move on", "Be Positive ", "Be Negative"],
+        options: [ "What is going on just move on","To be in connection with Anhad Naad", "Be Positive ", "Be Negative"],
         answer: "To be in connection with Anhad Naad",
         marks: 1,
         explanation: "When we start reading Gurbani we read most of the Hukam in Gurbani that clicks that what do you mean by Hukam, so Hukam is Naam - Gurbani   says Eko Naam hukam ha Nanak Satgur Diya Bujaye jiyo ."
